@@ -1,7 +1,16 @@
-# Cactus Theme for Jekyll
+# Fork of "Cactus Theme for Jekyll"
 
-This is a port of [Cactus](https://github.com/koenbok/Cactus)'s default theme for Jekyll.
+This is a **fork** of the port of [Cactus](https://github.com/koenbok/Cactus)'s default theme for Jekyll.
 Feel free to fork, change, modify and re-use it.
+
+## What's the difference between original port an this fork?
+
+This fork (https://github.com/rcmachado/kactus):
+
+* Merges [PR #26](https://github.com/nickbalestra/kactus/pull/26)
+* Merges [PR #19](https://github.com/nickbalestra/kactus/pull/19)
+* Merges [PR #17](https://github.com/nickbalestra/kactus/pull/17)
+* Merges [PR #16](https://github.com/nickbalestra/kactus/pull/16)
 
 ## How to use it
 
